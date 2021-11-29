@@ -39,17 +39,17 @@ Denna applikation har integrationer mot:
 
 Dessa miljövariabler måste sättas för att det ska gå att köra applikationen.
 
-DB_HOST
-DB_USER
-DB_PASSWORD
-DB_DATABASE
-EMAIL_TO
-APP_URI
-ENDPOINT_URI
-ISYCASE_API_KEY
-ISYCASE_URL
-PRODUCTION
-SANDBOX
+DB_HOST<br>
+DB_USER<br>
+DB_PASSWORD<br>
+DB_DATABASE<br>
+EMAIL_TO<br>
+APP_URI<br>
+ENDPOINT_URI<br>
+ISYCASE_API_KEY<br>
+ISYCASE_URL<br>
+PRODUCTION<br>
+SANDBOX<br>
 DB_SANDBOX
 
 ## Kör applikationen lokalt
