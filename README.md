@@ -1,6 +1,7 @@
 # Incident
 
-https://sundsvall.atlassian.net/wiki/spaces/SK/pages/22315023/Incident
+![bild](https://user-images.githubusercontent.com/75727533/145235092-3f1bd3b8-2943-4796-8d4d-c2cab9686066.png)
+
 
 ## Config
 
